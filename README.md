@@ -85,4 +85,3 @@ Puedes usar Postman para probar las rutas del backend directamente; el token JWT
 - La aplicación usa Bootstrap para estilos y es responsive.
 
 ---
-¡Listo! La aplicación cumple con los requisitos del proyecto final. ¡Buena suerte con la entrega!  
